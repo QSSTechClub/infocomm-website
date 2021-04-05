@@ -16,7 +16,7 @@ Welcome to our repository! Please abide by the ground rules stated in the reposi
 
 ### For Repository Moderators
 
-1. Do not merge any files without the prior permission of the Sec2 Level Coordinator. 
+1. Do not merge any files without the prior permission of the administartors of this repository. 
 
 2. Do not abuse your administrative powers.
 
