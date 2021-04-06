@@ -1,9 +1,9 @@
 ---
 name: All Issues Here!
 about: This template can be used for any issue!
-title: "[ISU] - "
+title: 'Ticket - '
 labels: Good First Issue
-assignees: CodeAsherPlayz
+assignees: CodeAsherPlayz, Luo0831
 
 ---
 
